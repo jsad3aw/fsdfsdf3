@@ -1,0 +1,24 @@
+leeksLazyLogger v1.1.9 by Eartharoid (github.com/eartharoid/leeksLazyLogger) | Log File (16/11/19 08:46:25) -->
+[08:46:25 | INFO] Starting up...
+[08:46:28 | INFO] Initialising bot...
+[08:46:28 | INFO] > Loading '!add' command
+[08:46:28 | INFO] > Loading '!close' command
+[08:46:28 | INFO] > Loading '!help' command
+[08:46:28 | INFO] > Loading '!new' command
+[08:46:28 | INFO] > Loading '!ping' command
+[08:46:28 | INFO] > Loading '!remove' command
+[08:46:28 | INFO] Connected to Discord API
+[08:46:28 | INFO] Logged in as ThinSupport#0467
+[08:46:28 | INFO] Checking permissions...
+[08:46:29 | INFO] Required permissions have been granted
+
+
+[08:46:35 | INFO] Thinmatrix#0001 used the 'help' command
+[08:46:58 | INFO] Thinmatrix#0001 used the 'new' command
+[08:47:00 | INFO] Thinmatrix#0001 created a new ticket (#ticket-55780001)
+[08:47:11 | INFO] Thinmatrix#0001 closed a ticket (#ticket-55780001)
+[08:47:11 | INFO] Thinmatrix#0001 used the 'close' command
+[08:47:43 | INFO] Thinmatrix#0001 used the 'new' command
+[08:47:53 | INFO] Thinmatrix#0001 created a new ticket (#ticket-55780001)
+[08:48:09 | INFO] Thinmatrix#0001 closed a ticket (#ticket-55780001)
+[08:48:09 | INFO] Thinmatrix#0001 used the 'close' command

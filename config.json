@@ -1,0 +1,20 @@
+{
+  "token": "NjQ1MDU5NjgwMTI4ODYwMjAz.Xc9ErQ.gn8yKiSfsdZf1GqsH2PR9Ju76xM",
+  "prefix": "!",
+  "name": "ThinSupport",
+  "guildID": "645052371927564289",
+  "supportRole": "645060536492621835",
+  "ticketsCat": "645061385532735528",
+  "logChannel": "645059975671971874",
+  "colour": "#009999",
+  "playing": "with tickets (!help)",
+  "activityType": "PLAYING",
+  "status": "ONLINE",
+  "useEmbeds": true,
+  "logDMs": true,
+  "cooldown": 3,
+  "ticketImage": true,
+  "tagHereOnly": false,
+  "ticketText": "Thank you for reaching out to our support team.\nA member of staff will come to assist you shortly. Please describe the issue in detail and explain what you have done to resolve the issue so far.\n\n*If you feel that the support you receive is inadequate, please feel free to submit a formal complaint to a senior member of staff.*",
+  "debugLevel": 0
+}

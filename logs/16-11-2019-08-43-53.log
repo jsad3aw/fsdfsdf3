@@ -1,0 +1,11 @@
+leeksLazyLogger v1.1.9 by Eartharoid (github.com/eartharoid/leeksLazyLogger) | Log File (16/11/19 08:43:53) -->
+[08:43:53 | INFO] Starting up...
+[08:43:54 | INFO] Initialising bot...
+[08:43:54 | INFO] > Loading '!add' command
+[08:43:54 | INFO] > Loading '!close' command
+[08:43:54 | INFO] > Loading '!help' command
+[08:43:54 | INFO] > Loading '!new' command
+[08:43:54 | INFO] > Loading '!ping' command
+[08:43:54 | INFO] > Loading '!remove' command
+[08:43:54 | INFO] Connected to Discord API
+[08:43:54 | INFO] Logged in as ThinSupport#0467
